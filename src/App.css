@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -8,4 +8,7 @@
   margin: auto;
   padding-left: 25px;
   padding-right: 25px;
+}
+.app {
+  background: radial-gradient(#fff, #ffd6d6);
 }
